@@ -3,7 +3,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=dhirendersingh19&label=Profile%20views&color=0e75b6&style=flat" alt="dhirendersingh19" /></p>
 
-<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=dhirendersingh19&show_icons=true&theme=radical" alt="dhirendersingh19" height="140px"/> <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirendersingh19&layout=compact&theme=radical" alt="dhirendersingh19" height="140px"/></p>
+<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=dhirendersingh19&show_icons=true&theme=radical&hide_border=true" alt="dhirendersingh19" height="140px"/> <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirendersingh19&layout=compact&theme=radical&hide_border=true" alt="dhirendersingh19" height="140px"/></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p  align="left">
