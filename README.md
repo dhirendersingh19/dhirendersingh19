@@ -1,14 +1,25 @@
-
-<h1 align="center">Hi 👋, I'm Dhirender Singh</h1>
-
-<p align="left">
+<a href="https://linkedin.com/in/dhirendersingh2" target="blank">
+<img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhirendersingh2" width="32px" />
+</a>
+<a href="https://discord.com/users/dhirender.singh">
+<img align="right" alt="Dhirender's Discord" width="45px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" />
+</a>
+<a href="https://twitter.com/_dhirendersingh" target="blank">
+<img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_dhirendersingh" width="32px" />
+</a>
+<h1 align="left">Hi 👋, I'm Dhirender Singh!</h1>
   <img src="https://komarev.com/ghpvc/?username=dhirendersingh19&label=Profile%20views&color=0e75b6&style=flat" alt="dhirendersingh19" />
-</p>
+
+- 🔭 I’m currently working on **Go project**.
+
+- 🌱 I’m currently learning **Go, Terraform, gRPC**.
+
+- 👯 I’m looking to collaborate on **Go projects**.
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhirendersingh19&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="dhirendersingh19" height="140px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dhirendersingh19&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="dhirendersingh19"/>
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirendersingh19&layout=compact&theme=radical&hide_border=true" alt="dhirendersingh19" height="140px"/> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirendersingh19&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="dhirendersingh19" height="140px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirendersingh19&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="dhirendersingh19"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
