@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Go project**.
 
-- 🌱 I’m currently learning **Go, Terraform, gRPC**.
+- 🌱 I’m currently learning **Go, Terraform, protocol-buffers3**.
 
 - 👯 I’m looking to collaborate on **Go projects**.
 
