@@ -17,9 +17,9 @@
 - 👯 I’m looking to collaborate on **Go projects**. -->
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhirendersingh19&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="dhirendersingh19" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dhirendersingh19&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="dhirendersingh19" height="150px"/>
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirendersingh19&layout=compact&theme=radical&hide_border=true" alt="dhirendersingh19" height="140px"/> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirendersingh19&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="dhirendersingh19" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirendersingh19&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="dhirendersingh19" height="150px"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
