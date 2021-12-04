@@ -10,17 +10,9 @@
 <h1 align="left">Hi 👋, I'm Dhirender Singh!</h1>
   <img src="https://komarev.com/ghpvc/?username=dhirendersingh19&label=Profile%20views&color=0e75b6&style=flat" alt="dhirendersingh19" />
 
-<!-- - 🔭 I’m currently working on **Go project**.
-
+- 🔭 I’m currently working on **Go project**.
 - 🌱 I’m currently learning **Go, Terraform, protocol-buffers3**.
-
-- 👯 I’m looking to collaborate on **Go projects**. -->
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhirendersingh19&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="dhirendersingh19" height="150px"/>
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirendersingh19&layout=compact&theme=radical&hide_border=true" alt="dhirendersingh19" height="140px"/> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirendersingh19&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="dhirendersingh19" height="150px"/>
-</p>
+- 👯 I’m looking to collaborate on **Go projects**.
 
 <h3 align="left">Languages and Tools:</h3>
 <p  align="left">
@@ -44,4 +36,11 @@
   <a  href="https://git-scm.com/"  target="_blank"><img  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  alt="git"  width="40"  height="40"  /></a>
   <a  href="https://www.openstack.org/"  target="_blank"><img  src="https://img.icons8.com/color/48/000000/openstack.png" alt="openstack"  width="40"  eight="40"  /></a>
 </p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhirendersingh19&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="dhirendersingh19" height="150px"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirendersingh19&layout=compact&theme=radical&hide_border=true" alt="dhirendersingh19" height="140px"/> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirendersingh19&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="dhirendersingh19" height="150px"/>
+</p>
+
 <img src="https://commit-data-graph.herokuapp.com/graph?username=dhirendersingh19&theme=chartreuse-dark&point=00000000&area=true&hide_border=true" alt="dhirendersingh19"  />
