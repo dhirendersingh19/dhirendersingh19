@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=dhirendersingh19&label=Profile%20views&color=0e75b6&style=flat" alt="dhirendersingh19" />
 
 - 🔭 I’m currently working on **Go project**.
-- 🌱 I’m currently learning **Go, Terraform, protocol-buffers3**.
+- 🌱 I’m currently learning **Go, Terraform.
 - 👯 I’m looking to collaborate on **Go projects**.
 
 <h3 align="left">Languages and Tools:</h3>
