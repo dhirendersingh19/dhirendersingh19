@@ -43,4 +43,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirendersingh19&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="dhirendersingh19" height="150px"/>
 </p>
 
-<img src="https://commit-data-graph.herokuapp.com/graph?username=dhirendersingh19&theme=chartreuse-dark&point=00000000&area=true&hide_border=true" alt="dhirendersingh19"  />
+<!-- <img src="https://commit-data-graph.herokuapp.com/graph?username=dhirendersingh19&theme=chartreuse-dark&point=00000000&area=true&hide_border=true" alt="dhirendersingh19"  /> -->
