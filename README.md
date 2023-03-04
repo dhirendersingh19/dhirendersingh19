@@ -6,7 +6,7 @@
 
 I am a software engineer currently working on Go projects, with expertise in the tech stack including Go, Terraform, and Cloudant. I am currently learning gRPC and actively seeking opportunities to collaborate on Go projects and contribute to open source projects.
 
-## 💻 Tech Stack
+## 🔭 Tech Stack
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ![IBM Cloudant](https://img.shields.io/badge/-IBM%20Cloudant-1a1a1a?style=flat&logo=IBM&logoColor=white)
@@ -14,6 +14,13 @@ I am a software engineer currently working on Go projects, with expertise in the
 
 ## 🌱 Currently Learning
 - gRPC
+
+## 💻 Contributing
+
+I'm actively contributing to the following open source projects:
+
+- [IBM Cloud Terraform Provider](https://github.com/IBM-Cloud/terraform-provider-ibm)
+- [IBM Cloud Power Go Client](https://github.com/IBM-Cloud/power-go-client)
 
 ## 👯‍♀️ Looking to Collaborate On
 - Go projects
