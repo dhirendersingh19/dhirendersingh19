@@ -21,6 +21,7 @@ I'm actively contributing to the following open source projects:
 
 - [IBM Cloud Terraform Provider](https://github.com/IBM-Cloud/terraform-provider-ibm)
 - [IBM Cloud Power Go Client](https://github.com/IBM-Cloud/power-go-client)
+- [IBM Cloud Docs](https://github.com/ibm-cloud-docs/power-iaas)
 
 ## 👯‍♀️ Looking to Collaborate On
 - Go projects
