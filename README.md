@@ -40,3 +40,6 @@ I'm actively contributing to the following open source projects:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirendersingh19&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="dhirendersingh19" height="150px"/>
 </p>
 <!-- <img src="https://commit-data-graph.herokuapp.com/graph?username=dhirendersingh19&theme=chartreuse-dark&point=00000000&area=true&hide_border=true" alt="dhirendersingh19"  /> -->
+
+<hr>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xbgac1vevufi83iakyrwn7b90&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false" alt="dhirendersingh19" height="150px"/>
