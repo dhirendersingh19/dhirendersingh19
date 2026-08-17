@@ -45,7 +45,11 @@ Senior Backend Engineer with 5+ years of experience designing and building distr
 
 **Architecture**
 
-`REST APIs` `Microservices` `Distributed Systems` `IaaS` `Infrastructure as Code`
+![REST APIs](https://img.shields.io/badge/REST%20APIs-4B32C3?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-4B32C3?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-4B32C3?style=for-the-badge)
+![IaaS](https://img.shields.io/badge/IaaS-4B32C3?style=for-the-badge)
+![Infrastructure as Code](https://img.shields.io/badge/Infrastructure%20as%20Code-4B32C3?style=for-the-badge)
 
 ---
 
@@ -72,6 +76,7 @@ Senior Backend Engineer with 5+ years of experience designing and building distr
 - **[IBM Cloud Terraform Provider](https://github.com/IBM-Cloud/terraform-provider-ibm)** — 15+ Terraform resources and data sources for IBM Cloud Power Systems, used by enterprise customers globally
 - **[IBM Cloud Power Go Client](https://github.com/IBM-Cloud/power-go-client)** — Go client library for IBM Power Virtual Server APIs
 - **[IBM Cloud Docs](https://github.com/ibm-cloud-docs/power-iaas)** — Documentation contributions
+- **[ibm.storage_virtualize](https://github.com/ansible-collections/ibm.storage_virtualize)** — Ansible collection for managing IBM Storage Virtualize systems
 
 ---
 
@@ -117,3 +122,7 @@ Feel free to open an issue, send a PR, or just reach out directly — always hap
 ---
 
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xbgac1vevufi83iakyrwn7b90&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" height="150px"/>
+
+---
+
+<a href="https://gitfut.com/dhirendersingh19"><img src="https://gitfut.com/dhirendersingh19.png" width="240" alt="GitFut card"></a>
