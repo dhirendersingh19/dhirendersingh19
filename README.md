@@ -105,9 +105,10 @@ Feel free to open an issue, send a PR, or just reach out directly — always hap
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhirendersingh19&show_icons=true&theme=chartreuse-dark&hide_border=true" height="150px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirendersingh19&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150px"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=dhirendersingh19&show_icons=true&theme=radical" height="150px"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=dhirendersingh19&theme=radical" height="150px"/>
 </p>
+
 
 ---
 
@@ -120,9 +121,4 @@ Feel free to open an issue, send a PR, or just reach out directly — always hap
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/dhirendersingh19)
 
 ---
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xbgac1vevufi83iakyrwn7b90&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" height="150px"/>
-
----
-
-<a href="https://gitfut.com/dhirendersingh19"><img src="https://gitfut.com/dhirendersingh19.png" width="240" alt="GitFut card"></a>
+<a href="https://gitfut.com/dhirendersingh19"><img src="https://gitfut.com/dhirendersingh19.png" width="240" alt="GitFut card"></a> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xbgac1vevufi83iakyrwn7b90&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&mode=dark&bar_color=53b14f&bar_color_cover=true" height="150px" align="top" />
