@@ -77,6 +77,7 @@ Senior Backend Engineer with 5+ years of experience designing and building distr
 - **[IBM Cloud Power Go Client](https://github.com/IBM-Cloud/power-go-client)** — Go client library for IBM Power Virtual Server APIs
 - **[IBM Cloud Docs](https://github.com/ibm-cloud-docs/power-iaas)** — Documentation contributions
 - **[ibm.storage_virtualize](https://github.com/ansible-collections/ibm.storage_virtualize)** — Ansible collection for managing IBM Storage Virtualize systems
+- **[IBM Storage Virtualize REST API](https://github.com/IBM/IBMStorageVirtualizeRestAPI)** — Python SDK for the IBM Storage Virtualize REST API
 
 ---
 
